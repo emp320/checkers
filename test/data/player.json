@@ -1,0 +1,16 @@
+{
+    "_id" : ObjectId("5788047ec3b48332423c35aa"),
+    "name" : "moe howard",
+    "color" : "white",
+    "dateCreated" : ISODate("2016-07-14T21:30:38.300Z"),
+    "isTurn" : false,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("5788049a290c8a5842000c67"),
+    "name" : "moe howard",
+    "color" : "white",
+    "dateCreated" : ISODate("2016-07-14T21:31:06.109Z"),
+    "isTurn" : false,
+    "__v" : 0
+}
